@@ -12,7 +12,7 @@
   - Essa é uma pagina para postar meu progresso e ver qual rumo eu tomo!
 
   <!-- GithubStats -->
-![Luiz Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=021Compan&theme=algolia_icons=true)
+![Luiz Compan GitHub stats](https://github-readme-stats.vercel.app/api?username=021Compan&theme=Algolia_icons=true)
 
 <!-- GIF -->
 <p align="left">
