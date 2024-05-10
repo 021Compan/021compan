@@ -6,19 +6,13 @@
 
 <!-- Presentation -->
 <p>
-  Hi, I'm Luiz Felipe! A Computer Science student from Brazil
+  - Olá, me chamo Luiz Felipe! sou estudante de Ciencia da Computação
+  
+  ---
+  essa é uma pagina para postar meu progresso e ver qual rumo eu tomo!
 
-  - 🌱 Here is a page to post my evolution to becoming a programmer
-
-<!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=021Compan&theme=algolia_icons=true)
-
-<!-- Portfolio -->
-## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+  <!-- GithubStats -->
+![Luiz Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=021Compan&theme=algolia_icons=true)
 
 <!-- GIF -->
 <p align="left">
