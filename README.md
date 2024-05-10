@@ -6,10 +6,10 @@
 
 <!-- Presentation -->
 <p>
-  - Olá, me chamo Luiz Felipe! sou estudante de Ciencia da Computação
+  - Olá, me chamo Luiz Compan! Sou estudante de Ciencia da Computação
   
   ---
-  essa é uma pagina para postar meu progresso e ver qual rumo eu tomo!
+  - Essa é uma pagina para postar meu progresso e ver qual rumo eu tomo!
 
   <!-- GithubStats -->
 ![Luiz Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=021Compan&theme=algolia_icons=true)
