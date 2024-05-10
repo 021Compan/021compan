@@ -11,7 +11,7 @@
   - 🌱 Here is a page to post my evolution to becoming a programmer
 
 <!-- GithubStats -->
-![021Compan GitHub stats](https://github-readme-stats.vercel.app/api?username=021Compan=icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=021Compan&theme=algolia_icons=true)
 
 <!-- Portfolio -->
 ## Portfolio:
