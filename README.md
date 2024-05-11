@@ -24,7 +24,7 @@
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/021compan/)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/compaan/)
 
 <!-- GithubStats -->
 ![Luiz Compan GitHub stats](https://github-readme-stats.vercel.app/api?username=021compan&show_icons=true&theme=prussian)
