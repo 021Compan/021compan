@@ -17,7 +17,7 @@
 <details>
   <summary>🃏 Mais sobre mim</summary>
 
-  - 💬 Tenho 20 anos, sou do Rio de Janeiro/RJ, sempre amei computadores, tentei seguir na area de enfermagem mas não me encontrei tão bem na área dentro dos dois periodos que cursei.
+  - 💬 Tenho 21 anos, sou do Rio de Janeiro/RJ, sempre amei computadores, tentei seguir na area de enfermagem mas não me encontrei tão bem na área dentro dos dois periodos que cursei.
     
   - ⚡ Amo jogos online, passar tempo com minha familia, praia e aproveitar o dia! 
 </details>
