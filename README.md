@@ -10,7 +10,7 @@
   
   - 💻 Aqui postarei meu progresso e descobertas dentro da programação!!
 
-  - 🎭 Penso em um dia trabalhar com jogos ou criando sites (além de usar AI)  
+  - 🎭 Desejo trabalhar no ramo de cyber segurança (como perito criminal) 
 </p>
 
 <!-- Dropdown -->
